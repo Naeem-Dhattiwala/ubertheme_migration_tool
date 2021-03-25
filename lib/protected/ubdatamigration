@@ -1,0 +1,4 @@
+#!/usr/bin/env php
+<?php
+//we can change the path if needed.
+require_once(dirname(__FILE__).'/../pub/ub-tool/protected/ubdatamigration_cli.php');
